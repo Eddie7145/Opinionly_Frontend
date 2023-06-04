@@ -528,7 +528,7 @@ li {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(/assets/Footer-bg.png);
+  background-image: url(/Frontend/assets/Footer-bg.png);
   background-position: center;
   background-size: cover;
 }
@@ -808,7 +808,7 @@ li {
 .main-container {
   width: 100%;
   height: 100vh;
-  background-image: url(/assets/background.png);
+  background-image: url(/Frontend/assets/background.png);
   background-position: center;
   background-size: cover;
   overflow: hidden;
@@ -872,7 +872,7 @@ li {
 .welcome-header {
   width: 100%;
   height: 80vh;
-  background-image: url(/assets/home-image.svg);
+  background-image: url(/Frontend/assets/home-image.svg);
   background-position: center;
   background-size: cover;
   position: relative;
